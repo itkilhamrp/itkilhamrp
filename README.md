@@ -1,5 +1,5 @@
-## Hi there 👋
-HEY, I'M ILHAM RAMADHAN PRAKOSO 
+# Hi there 👋
+HEY, I'M **ILHAM RAMADHAN PRAKOSO**
 
 # 💫 About Me:
 Saya Seorang Mahasiswa Informatika, yang sangat antusias dengan dunia percodingan, saya belajar mengerjakan beberapa Bahasa Pemrograman, Project dengan berbagai bahasa, dan Latihan melatih problem solving 
